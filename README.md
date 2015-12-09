@@ -7,7 +7,7 @@ __Example__
 ```javascript
 require(['template!mon_template.hdb'], function (myTemplate) {
 // ...
-	$el.html(myTemplate(myData);
+	$el.html(myTemplate(myData));
 // ...
 });
 ```
